@@ -1,24 +1,10 @@
 {
-  "posts": [
+  "feedback": [
     {
       "id": 1,
-      "title": "Blog post 1",
-      "content": "Sample content"
-    },
-    {
-      "id": 3,
-      "title": "Blog post 3",
-      "content": "Sample content"
-    },
-    {
-      "id": 4,
-      "title": "Blog post 4",
-      "content": "Sample content"
-    },
-    {
-      "title": "hid",
-      "content": "bfgsve",
-      "id": 5
+      "name": "R V Rohaan",
+      "email": "rvrohaan@gmail.com",
+      "message": "Hi....."
     }
   ]
 }
